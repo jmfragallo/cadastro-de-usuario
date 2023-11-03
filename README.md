@@ -24,10 +24,6 @@ Ao término do projeto local, estaremos hospedando a aplicação no **[Azure](ht
   - **[mongoose](https://www.npmjs.com/package/mongoose)**
   - **[dotenv](https://www.npmjs.com/package/dotenv)**
 
-## ⭐️ Conta - Azure For Students
-
-Caso você seja um(a) estudante de alguma Instituição de Ensino de Faculdade ou Universidade, poderá criar sua conta no **[Azure for Students](https://azure.microsoft.com/free/students/?WT.mc_id=javascript-12243-gllemos)**. Essa conta te dará o benefício em possuir crédito de USD 100,00 para usar os serviços de maneira gratuita, sem necessidade de possuir um cartão de crédito. Para ativar essa conta, bastam acessar o link ao lado: **[AQUI](https://azure.microsoft.com/free/students/?WT.mc_id=javascript-12243-gllemos)**
-
 
 ### **Back-End**
 
