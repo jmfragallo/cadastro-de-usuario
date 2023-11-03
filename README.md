@@ -24,7 +24,6 @@ Ao término do projeto local, estaremos hospedando a aplicação no **[Azure](ht
   - **[mongoose](https://www.npmjs.com/package/mongoose)**
   - **[dotenv](https://www.npmjs.com/package/dotenv)**
 
-
 ### **Back-End**
 
 | Estrutura                                                         | 
